@@ -56,6 +56,18 @@ Usa una base de datos SQL Server llamada `CineStar` y consume estos stored proce
 
 `sp_getCines`, `sp_getCine`, `sp_getCineTarifas`, `sp_getCinePeliculas`, `sp_getPeliculas`, `sp_getPelicula`
 
+## Capturas
+
+## Capturas
+
+| Nuestros cines | Detalle de cine |
+| :---: | :---: |
+| <img width="450" alt="Nuestros cines" src="https://github.com/user-attachments/assets/724433df-7cd6-4b0a-bb2d-ef0614c2d770" /> | <img width="450" alt="Detalle de cine" src="https://github.com/user-attachments/assets/614af341-1ff0-4b79-bf49-7eb5b311e1c7" /> |
+
+| Cartelera | Detalle de película |
+| :---: | :---: |
+| <img width="450" alt="Cartelera" src="https://github.com/user-attachments/assets/d33a7865-25c1-4a38-8445-bbca19af7559" /> | <img width="450" alt="Detalle de película" src="https://github.com/user-attachments/assets/e731218a-17d9-4278-8420-70bdb0f9ca25" /> |
+
 ## Instalación y ejecución
 
 ### Requisitos
